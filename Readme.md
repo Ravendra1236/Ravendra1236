@@ -96,8 +96,8 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ravendra1236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=C9D1D9&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ravendra1236&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&count_private=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravendra1236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=C9D1D9&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendra1236&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&count_private=true&langs_count=8" />
 </div>
 
 <div align="center">
