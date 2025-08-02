@@ -96,8 +96,8 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ravendra1236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendra1236&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ravendra1236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=C9D1D9&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ravendra1236&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&count_private=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -139,10 +139,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> **3D Contribution Calendar**
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> **My Coding Journey**
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ravendra1236&theme=dark&area_color=4ECDC4&background=0D1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravendra1236&custom_title=My%20Coding%20Journey%20-%20Contributions%20Over%20Time&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area_color=1a1a2e&area=true&hide_border=true&theme=tokyo-night" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravendra1236&theme=tokyonight" />
 </div>
 
 ---
