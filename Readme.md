@@ -19,29 +19,22 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-const developer = {
-  name: "Ravendra Singh",
-  location: "India 🇮🇳",
-  role: "Full Stack Web Developer",
-  languages: ["JavaScript", "TypeScript", "C++", "Python"],
-  technologies: {
-    frontend: ["React", "Redux", "TailwindCSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "Socket.io"],
-    database: ["MongoDB", "MySQL"],
-    tools: ["Git", "Postman", "Vite", "JWT"]
-  },
-  currentFocus: "Building scalable web applications & mastering DSA",
-  lifePhilosophy: "Code with passion, debug with patience! 🚀",
-  
-  sayHello: function() {
-    return `Hi! I'm ${this.name}, a ${this.role} from ${this.location}`;
-  }
-};
+👋 Hi there! I'm **Ravendra Singh**, a passionate **Full Stack Web Developer** from India 🇮🇳
 
-console.log(developer.sayHello());
-// Output: "Hi! I'm Ravendra Singh, a Full Stack Web Developer from India 🇮🇳"
-```
+🚀 **What I Do:**
+- Build dynamic and responsive web applications using **MERN Stack**
+- Create seamless user experiences with **React** and modern JavaScript
+- Develop robust backend APIs with **Node.js** and **Express.js**
+- Design efficient database solutions using **MongoDB** and **MySQL**
+
+💻 **Currently Learning:**
+- Advanced **Data Structures & Algorithms** in C++
+- **System Design** and scalable architecture patterns
+- **Cloud technologies** and DevOps practices
+
+🎯 **My Goal:** To create innovative web solutions that make a real impact
+
+⚡ **Fun Fact:** I can turn coffee into code and debug with infinite patience! ☕→💻
 
 <br clear="both">
 
@@ -146,10 +139,10 @@ console.log(developer.sayHello());
 
 ---
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> **Snake Eating My Contributions**
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> **3D Contribution Calendar**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Ravendra1236&theme=dark&area_color=4ECDC4&background=0D1117&hide_border=true" />
 </div>
 
 ---
