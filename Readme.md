@@ -1,18 +1,69 @@
-# 💫 About Me:
-👋 Hi, I'm Ravendra Singh, an enthusiastic Full Stack Web Developer with a passion for building dynamic and efficient web applications. My toolkit includes React, Express, MongoDB, SQL, and Node.js, which I use to create seamless and responsive user experiences. I'm also deeply engaged in honing my Data Structures and Algorithms (DSA) skills in C++, which helps me solve complex problems with optimized solutions. I'm always eager to learn, innovate, and contribute to the tech community. Let's build something amazing together!
+<h1 align="center">Hi there 👋, I'm Ravendra Singh</h1>
+<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 📘 DSA Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JS7RcFEwSb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ravendra1236) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ravendra-singh-525344227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ravendr27281761) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ravendra1236&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravendra1236&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendra1236&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=I+build+interactive+full-stack+apps;React+%7C+Node+%7C+MongoDB+%7C+SQL;Love+solving+DSA+problems+in+C%2B%2B;Let's+build+something+awesome+together!" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ravendra1236&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+- 🎓 Final-year B.Tech CSE student at VIT
+- 💻 Skilled in **MERN Stack**, SQL, and REST APIs  
+- 🔍 Currently improving my DSA skills using **C++**
+- 🌱 Learning **Cloud**, **System Design**, and **TypeScript**
+- ⚡ I enjoy turning complex problems into elegant solutions
+
+---
+
+### 🌐 Connect With Me:
+<p align="left">
+  <a href="https://discord.gg/JS7RcFEwSb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/Ravendra1236"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ravendra-singh-525344227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Ravendr27281761"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Tech Toolbox:
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,py,nodejs,react,redux,express,mongodb,mysql,tailwind,bootstrap,postman,vercel,netlify,vite,docker,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravendra1236&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravendra1236&theme=tokyonight&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendra1236&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" width="49%" />
+</p>
+
+---
+
+### 📍 Current Projects:
+- 🔧 Building a **YouTube Summary Extension** using LLMs
+- 📦 Working on a **cloud storage platform** with secure sharing
+- 🛠️ Cloning healthcare interfaces with filters and SEO in **Next.js**
+
+---
+
+### 🏆 Github Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravendra1236&theme=discord&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
+### 📈 Visitors:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ravendra1236&icon=6&color=6" />
+</p>
+
+---
+
+<!-- Optional Credit -->
+<p align="center">
+  <i>✨ Crafted with passion using GPRM & Readme Typing SVG ✨</i>
+</p>
