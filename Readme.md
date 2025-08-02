@@ -19,18 +19,8 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  technologies: TechStack;
-  currentFocus: string;
-  lifePhilosophy: string;
-}
-
-const ravendra: Developer = {
+```javascript
+const developer = {
   name: "Ravendra Singh",
   location: "India 🇮🇳",
   role: "Full Stack Web Developer",
@@ -42,8 +32,15 @@ const ravendra: Developer = {
     tools: ["Git", "Postman", "Vite", "JWT"]
   },
   currentFocus: "Building scalable web applications & mastering DSA",
-  lifePhilosophy: "Code with passion, debug with patience! 🚀"
+  lifePhilosophy: "Code with passion, debug with patience! 🚀",
+  
+  sayHello: function() {
+    return `Hi! I'm ${this.name}, a ${this.role} from ${this.location}`;
+  }
 };
+
+console.log(developer.sayHello());
+// Output: "Hi! I'm Ravendra Singh, a Full Stack Web Developer from India 🇮🇳"
 ```
 
 <br clear="both">
